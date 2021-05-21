@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021.05.20 13:15:31.716.pas,C:\Users\student\Documents\RAD Studio\Projects\Unit1.pas=D:\3is1\Plotnikov\Telephone\Main.pas</Transaction>
+    <Transaction>2021.05.20 13:15:31.716.dfm,C:\Users\student\Documents\RAD Studio\Projects\Unit1.dfm=D:\3is1\Plotnikov\Telephone\Main.dfm</Transaction>
+    <Transaction>2021.05.20 13:15:36.619.dproj,C:\Users\student\Documents\RAD Studio\Projects\Project1.dproj=D:\3is1\Plotnikov\Telephone\Telephone.dproj</Transaction>
+    <Transaction>2021.05.20 13:33:19.697.pas,D:\3is1\Plotnikov\Telephone\Unit2.pas=D:\3is1\Plotnikov\Telephone\AddSubscriberDlg.pas</Transaction>
+    <Transaction>2021.05.20 13:33:19.697.dfm,D:\3is1\Plotnikov\Telephone\Unit2.dfm=D:\3is1\Plotnikov\Telephone\AddSubscriberDlg.dfm</Transaction>
+    <Transaction>2021.05.20 13:45:51.629.pas,D:\3is1\Plotnikov\Telephone\Unit3.pas=D:\3is1\Plotnikov\Telephone\AddPhoneDlg.pas</Transaction>
+    <Transaction>2021.05.20 13:45:51.629.dfm,D:\3is1\Plotnikov\Telephone\Unit3.dfm=D:\3is1\Plotnikov\Telephone\AddPhoneDlg.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
